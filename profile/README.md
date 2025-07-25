@@ -18,7 +18,7 @@
 - **⭐ Stars**: ![Stars](https://img.shields.io/github/stars/hc-unipo/unipo?style=flat-square)
 - **🍴 Forks**: ![Forks](https://img.shields.io/github/forks/hc-unipo/unipo?style=flat-square)
 
-## 🚀 Welcome to unipo!
+## 🚀 Welcome to Unipo!
 
 A collaborative open-source project where creativity meets code! This repository is a playground for developers to showcase their skills, experiment with new ideas, and contribute to something amazing together.
 
@@ -55,6 +55,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Hack Club</p>
+  <p>Made with ❤️ by Hack Club members</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
